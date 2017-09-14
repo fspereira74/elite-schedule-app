@@ -11,4 +11,8 @@ export class HomePage {
 
   }
 
+  sayHello(){
+    console.log("Hello from IONIC");
+  }
+
 }
